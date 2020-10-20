@@ -32,7 +32,7 @@ I am working at [Boomerang](https://useboomerang.io) a collection of Open Source
 ## ❤️ Recommended Projects
 
 I recommend the following projects
-- [Oauth2 Proxy](https://github.com/boomerang-io/oauth2-proxy)
-- [Boomerang.io](https://github.com/boomerang-io/charts)
-- [Jaeger](https://github.com/jaegertracing/jaeger)
+- [Oauth2 Proxy](https://github.com/boomerang-io/oauth2-proxy) - Including the IBM specific oidc providers,
+- [Boomerang.io](https://github.com/boomerang-io/charts) - Helm charts for deploying the Boomerang components, 
+- [Jaeger](https://github.com/jaegertracing/jaeger) - a Distributed Tracing System. 
 
